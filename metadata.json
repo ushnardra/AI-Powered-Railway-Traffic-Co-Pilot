@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Railway Traffic Co-Pilot",
+  "description": "A human-in-the-loop decision-support console for railway section controllers. It provides a real-time dashboard with live train movements, conflict alerts, and AI-optimized scheduling recommendations.",
+  "requestFramePermissions": []
+}
